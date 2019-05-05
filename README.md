@@ -28,7 +28,7 @@ net <- neuralnet(attention ~ eyes + face.forward + chin.up, D1, hidden = 1, thre
 plot(net)
 ```
 
-![net1](https://github.com/ab4499/Neural_Networks/blob/master/graphs/Net1.pdf "github")
+![net1](https://github.com/ab4499/Neural_Networks/blob/master/graphs/net1.png "github")
 
 
 I have now trained a neural network! The plot shows the layers of the newtork as black nodes and edges with the calculated weights on each edge. The blue nodes and edges are called bias terms. The bias term anchors the activation function, the weights change the shape of the activation function while the bias term changes the overall position of the activation function - if I have used linear regression the bias term is like the intercept of the regression equation, it shifts the trend line up and down the y axis, while the other parameters change the angle of the line. The plot also reports the final error rate and the number of iterations ("steps") that it took to reach these weights.
@@ -40,7 +40,7 @@ net2 <- neuralnet(attention ~ eyes + face.forward + chin.up, D1, hidden=3, thres
 plot(net2)
 ```
 
-![net2](https://github.com/ab4499/Neural_Networks/blob/master/graphs/net2.pdf "github")
+![net2](https://github.com/ab4499/Neural_Networks/blob/master/graphs/net2.png "github")
 
 
 Use my preferred neural net to predict the second data set.
