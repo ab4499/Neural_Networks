@@ -86,3 +86,14 @@ This model predicts whether they are paying attention in class (output) based on
 
 Neural network would be a good solution for facial recognition. Because it can recognize different edges and patterns in different layers and this is very useful/important in image recognition. When it comes to predicting facial movement, it could be harder. But if we constantly train the algorithm, and help it to correct its bad prediction, the final results could be good. 
 
+## Relevant Materials
+
+[Nielsen, M. (2015). Neural Networks & Deep Learning. Determination Press:San Francisco, CA Charpter1](http://neuralnetworksanddeeplearning.com/chap1.html)
+
+[Nielsen, M. (2015). Neural Networks & Deep Learning. Determination Press:San Francisco, CA Charpter2](http://neuralnetworksanddeeplearning.com/chap2.html)
+
+[McKlin, T., Harmon, S. W., Evans, W., & Jones, M. G. (2001). Cognitive presence in Web-based learning: A content analysis of students' online discussions.](https://files.eric.ed.gov/fulltext/ED470101.pdf)
+
+[Stergiou, C. & Siganos, D. (2000). Neural Networks.](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)
+
+[Sanderson, G. (2017). But what is a Neural Network? 3Blue1Brown.](https://www.youtube.com/watch?v=aircAruvnKk)
